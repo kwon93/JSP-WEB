@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/ealryaccess/nanumgothic.css);
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+
+h1{
+ font-family: 'Hanna', fantasy;
+}
+* {
+	font-family: 'nanum Gothic';
+}
+
+ol{
+	display: none;
+}
